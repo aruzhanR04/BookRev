@@ -1,2 +1,0 @@
-def book():
-    return None
